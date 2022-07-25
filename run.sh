@@ -106,7 +106,7 @@ function SENDSMS() {
     banner
     echo ""
    echo -e ${ORANGE}"Entrez votre numero de telephone (+24381000000000 par exemple)\n"
-   echo -e -n ${CP}"Entrez le code du pays: "
+   echo -e -n ${CP}"Entrez le numero de telephone : "
    
    read num
    
